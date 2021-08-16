@@ -1,27 +1,7 @@
-## Development branch ##
+# Forgotten Tales
+# Multiplayer co-op RPG
 
-This is the home of our programming team.
-Here every change made will be tested for integration conflicts before further merging into main.  
-
-Please read [code-contributing](https://github.com/RPGeeks/curly-burly/blob/main/PROGRAMMING_CONTRIBUTING.md) before creating a Pull Request.  
-
-If your modifications require additional assets, please also read [design-contributing](https://github.com/RPGeeks/curly-burly/blob/main/DESIGN_CONTRIBUTING.md).
-
-## Branches and teams ##
-
-The programming team will focus on adding new features using [this branch](https://github.com/RPGeeks/curly-burly/tree/development)
-
-The design team will focus on creating a cohesive athmophere in the game using [this branch](https://github.com/RPGeeks/curly-burly/tree/design)
-
-**Please resmect your branches :D**
-
-## Branches and teams ##
-
-The programming team will focus on adding new features using [this branch](https://github.com/RPGeeks/curly-burly/tree/development)
-
-The design team will focus on creating a cohesive athmophere in the game using [this branch](https://github.com/RPGeeks/curly-burly/tree/design)
-
-**Please resmect your branches :D**
+A multiplayer co-op RPG game developed during a game development summer school in a team.
 
 ## Development setup ##
 
