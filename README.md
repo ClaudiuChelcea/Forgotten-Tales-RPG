@@ -12,9 +12,9 @@ Personal contributions:
 - Testing & bug issuing
 
 Presentation: https://opreaolivia73.wixsite.com/rpgeeks3
-![Screenshot (301)](https://user-images.githubusercontent.com/74200190/129560818-23cfe17b-d5c4-4d49-b8d8-45e16dcc457d.png)
-![Screenshot (268)](https://user-images.githubusercontent.com/74200190/129561005-986a4d3d-79a2-4e07-be25-fb843ed4fb1e.png)
-![Screenshot (297)](https://user-images.githubusercontent.com/74200190/129561161-e4f4cfa2-e1dc-416c-8ab0-c4e8bc0cc707.png)
+![Screenshot (271)](https://user-images.githubusercontent.com/74200190/129561671-0dca688a-61b7-46e6-91f2-9e5ba6a8d0ca.png)
+![Screenshot (297)](https://user-images.githubusercontent.com/74200190/129561682-5e2832fa-c338-41bd-bc5a-c4aa933bcfef.png)
+![Screenshot (298)](https://user-images.githubusercontent.com/74200190/129561691-3772f079-3859-4db0-bc1a-5d01ef2fd55f.png)
 
 
 ## Development setup ##
