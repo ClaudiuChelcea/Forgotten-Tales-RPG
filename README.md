@@ -1,7 +1,15 @@
 # Forgotten Tales
 # Multiplayer co-op RPG
 
-A multiplayer co-op RPG game developed during a game development summer school in a team.
+A multiplayer co-op RPG game developed in a team of 22 persons during a game development summer school in a team.
+
+Personal contributions:
+- Management: meetings, progress presentations, setting objectives, team management, announcements, documents management
+- Sounds: added sounds to different parts of the game, eg: character selection music, background sound, buttons sounds and sound scripts created in C# to allow continuity between music and other features
+- Game map: developed a big part of the game map, from creating the concept and areas to implementing them in Unity
+- Game design document: collaborated with the design team in creating the GDD
+- Presentations to the teachers and to all the participants of the summer school of our game
+- Testing & bug issuing
 
 ## Development setup ##
 
