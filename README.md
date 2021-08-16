@@ -8,7 +8,7 @@ A multiplayer co-op RPG game developed during a game development summer school i
 It is required that you have [git LFS](https://git-lfs.github.com) installed.
 
 ```bash
-git clone https://github.com/RPGeeks/curly-burly.git
+git clone https://github.com/ClaudiuChelcea/Forgotten-Tales-RPG
 cd curly-burly
 git submodule update --init --recursive
 ```
