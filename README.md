@@ -11,6 +11,12 @@ Personal contributions:
 - Presentations to the teachers and to all the participants of the summer school of our game
 - Testing & bug issuing
 
+Presentation: https://opreaolivia73.wixsite.com/rpgeeks3
+![Screenshot (301)](https://user-images.githubusercontent.com/74200190/129560818-23cfe17b-d5c4-4d49-b8d8-45e16dcc457d.png)
+![Screenshot (268)](https://user-images.githubusercontent.com/74200190/129561005-986a4d3d-79a2-4e07-be25-fb843ed4fb1e.png)
+![Screenshot (297)](https://user-images.githubusercontent.com/74200190/129561161-e4f4cfa2-e1dc-416c-8ab0-c4e8bc0cc707.png)
+
+
 ## Development setup ##
 
 It is required that you have [git LFS](https://git-lfs.github.com) installed.
