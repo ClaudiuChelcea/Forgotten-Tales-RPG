@@ -1,7 +1,7 @@
 # Forgotten Tales
 # Multiplayer co-op RPG
 
-A multiplayer co-op RPG game developed in a team of 22 persons during a game development summer school in a team.
+A multiplayer co-op RPG game developed in a team of 22 persons during a game development summer school.
 
 Personal contributions:
 - Management: meetings, progress presentations, setting objectives, team management, announcements, documents management
